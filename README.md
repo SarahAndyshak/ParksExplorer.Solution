@@ -15,7 +15,7 @@
 
 ## 🌲 Description
 
-A website to help you explore the US national parks system. 
+A website to help you explore the US national parks system. This site was created to consume the [Parks Directory API](https://github.com/SarahAndyshak/ParksDirectory.Solution).
 
 Screenshots from this site:
 ![splash page](parksplash.png)
